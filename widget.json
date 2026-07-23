@@ -1,6 +1,6 @@
 {
     "name": "Memory Usage",
-    "description": "A simple Memory Usage monitor.",
+    "description": "A memory usage monitor breaking down wired, active, compressed, inactive, free, and total memory with a stacked bar.",
     "author": "Dion Munk",
     "email": "dion@dionmunk.com"
 }

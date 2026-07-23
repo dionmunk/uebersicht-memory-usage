@@ -2,7 +2,7 @@
 
 [![Creative Commons](https://flat.badgen.net/badge/license/CC-BY-NC-4.0/orange)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-A simple Memory Usage widget for [Übersicht](http://tracesof.net/uebersicht/) using the colors from [Monokai Faded](https://dionmunk.com/projects/monokai-faded/). Based on [ubericht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
+A memory usage widget for [Übersicht](http://tracesof.net/uebersicht/). It breaks system memory into wired, active, compressed, inactive, free, and total, shown as figures with a stacked bar. Colors are theme-aware, with sensible built-in defaults, so the widget works on its own. Originally based on [ubersicht-memory-bar](https://github.com/cobyism/ubersicht-memory-bar).
 
 ## Screenshot
 
@@ -10,7 +10,7 @@ A simple Memory Usage widget for [Übersicht](http://tracesof.net/uebersicht/) u
 
 ## Installation
 
-- Download the [repository](https://github.com/dionmunk/ubersicht-memory-usage/archive/master.zip) and extract it.
+- Download the [repository](https://github.com/dionmunk/uebersicht-memory-usage/archive/master.zip) and extract it.
 - Place the `memory-usage.widget` folder in your Übersicht extension folder.
 - Refresh Übersicht.
 
