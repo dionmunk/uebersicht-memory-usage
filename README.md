@@ -6,7 +6,7 @@ A memory usage widget for [Übersicht](http://tracesof.net/uebersicht/). It brea
 
 ## Screenshot
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
